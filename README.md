@@ -2,12 +2,17 @@
 
 ## 📝 Task Details
 **Track Code**: PE
+
 **Task Name**: AI-Powered Website using No-Code Tool
+
 **Tools Used**: Vibe Wix AI, AI Content Blocks, WordPress AI, Webflow AI, Figma (for design), Canva (UI graphics), Zapier (optional automations), GitHub (documentation)
+
 **Deliverables**: Prompt Chain, AI-Powered Website, Screenshots, Live Website Link
 
 🎯 Final Website Concept
+
 **Title**: AI Career Navigator
+
 **Website Goal**: Help students, freshers, and job seekers improve their hiring chances using AI-powered tools such as:
 Resume Analyzer
 Interview Buddy
