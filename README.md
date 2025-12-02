@@ -9,7 +9,8 @@
 
 **Deliverables**: Prompt Chain, AI-Powered Website, Screenshots, Live Website Link
 
-🎯 Final Website Concept
+
+## 🎯 Final Website Concept
 
 **Title**: AI Career Navigator
 
@@ -20,7 +21,9 @@ Job Match Generator
 AI Blog Writer
 Personalized Career Guidance
 
+
 ## 🔗 Prompt Chain
+
 **1️⃣ Website Idea Prompt**
 Generate a modern job-focused AI-powered website that helps freshers with resume enhancement, interview preparation, and job search.
 
@@ -47,6 +50,7 @@ Auto-generated blogs
 
 
 ## 🖼 Screenshots
+
 Homepage.png
 Resume-Analyzer.png
 Interview-Buddy.png
@@ -56,10 +60,13 @@ Contact.png
 Testimonial.png
 Final-CTA.png
 
+
 ## ▶️ Live Website Link
 
 Add your live website link after publishing:
 https://your-website-link.com
 
+
 ## 📌 GitHub Repository
+
 Recommended Repo Name: FUTURE_PE_02
