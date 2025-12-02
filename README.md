@@ -52,13 +52,16 @@ Auto-generated blogs
 ## 🖼 Screenshots
 
 Homepage.png
+
 Resume-Analyzer.png
+
 Interview-Buddy.png
+
 Job-Recommendation.png
+
 Blog.png
+
 Contact.png
-Testimonial.png
-Final-CTA.png
 
 
 ## ▶️ Live Website Link
